@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "fullName": "พลเอก พหล สง่าเนตร",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/25660322_104116.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 2,
+        "fullName": "นายกรรณภว์ ธนภรรคภวิน",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/62-002.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 3,
+        "fullName": "พลตรี กลชัย สุวรรณบูรณ์",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/n57-003.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 4,
+        "fullName": "นายกล้านรงค์ จันทิก",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/n57-004.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 5,
+        "fullName": "นายกษิดิศ อาชวคุณ",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/62-005.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 6,
+        "fullName": "นางกอบกุล อาภากร",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/6.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 7,
+        "fullName": "ศาสตราจารย์พิเศษกาญจนารัตน์ ลีวิโรจน์",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/7.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 8,
+        "fullName": "นายกำพล เลิศเกียรติดำรงค์",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/8.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 9,
+        "fullName": "นายกิตติ วะสีนนท์",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/9.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 10,
+        "fullName": "นายกิตติศักดิ์ รัตนวราหะ",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/n57-013.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 11,
+        "fullName": "นายกูรดิสถ์ จันทร์ศรีชวาลา",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/11.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 12,
+        "fullName": "นายเกียว แก้วสุทอ",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/62-12.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 13,
+        "fullName": "ศาสตราจารย์เกียรติคุณไกรสิทธิ์ ตันติศิรินทร์",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/13.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 14,
+        "fullName": "นายขวัญชาติ วงศ์ศุภรานันต์",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/25660130_151906.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 15,
+        "fullName": "นายคำนูณ สิทธิสมาน",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/25621024_124949.png",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    },
+    {
+        "id": 16,
+        "fullName": "นายจเด็จ อินสว่าง",
+        "image": "https://www.senate.go.th/v2/files/person/pictures/16.jpg",
+        "alive": true,
+        "status": "ดำรงตำแหน่ง",
+        "group": "-",
+        "vote": "ยังไม่มีการโหวต"
+    }
+]
